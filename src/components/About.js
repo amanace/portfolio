@@ -99,7 +99,7 @@ export default function About() {
                   textAlign: "center",
                 }}
                 // download=""
-                href="https://drive.google.com/file/d/1uMhI5vFv7XTHhSwLZD0-CxaKtt4i2bwB/view?usp=sharing"
+                href="https://drive.google.com/file/d/1svBnPaQQJLmCMEuoIaLtl4d2fqLabwWB/view?usp=sharing"
                 // class="button button--flex"
               >
                 Download CV
